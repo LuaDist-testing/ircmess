@@ -1,9 +1,17 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "ircmess"
 version = "0.4-1"
 
+-- LuaDist source
 source = {
-   url = "git://github.com/Xe/lua-ircmess.git"
+  tag = "0.4-1",
+  url = "git://github.com/LuaDist-testing/ircmess.git"
 }
+-- Original source
+-- source = {
+--    url = "git://github.com/Xe/lua-ircmess.git"
+-- }
 
 description = {
    summary = "A simple, no bullshit IRC parser.",
